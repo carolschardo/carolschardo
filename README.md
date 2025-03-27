@@ -43,12 +43,11 @@ No **Hacka 2CTJ FIAP - EduLearn** pude colaborar em equipe, resolver problemas r
 - Criar APIs com **Node.js**
 - Testar requisições com **Postman**
 
-📂 Repositórios em destaque:
-- [dio-resumos-git-e-github](https://github.com/carolschardosim/dio-resumos-git-e-github)  
-- [meus-exercicios-java](https://github.com/carolschardosim/meus-exercicios-java) *(exemplo)*
+📂 Repositórios em destaque: 
+- [meus-exercicios-java](https://github.com/carolschardo/dio-java-basico)
 
 📬 Fale comigo:
-[![LinkedIn](https://img.shields.io/badge/-Meu%20LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/carolschardosim)
+[![LinkedIn](https://img.shields.io/badge/-Meu%20LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/carolineschardosim/)
 
 ---
 ✨ *"A tecnologia me encanta porque transforma vidas — inclusive a minha."*
