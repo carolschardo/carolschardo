@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![octocat-1743100863953](https://github.com/user-attachments/assets/c53bcbc6-b050-4da2-a9cd-6bcd4bfdb733)
+
 <!--
 **carolschardo/carolschardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
